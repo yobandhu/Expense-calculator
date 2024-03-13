@@ -14,7 +14,7 @@ Manage your finances with ease using Expense Tracker! This web application provi
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/bandhu9/Expense_Tracker_Vue.git`
+1. Clone the repository: `https://github.com/yobandhu/Expense-calculator`
 2. Navigate to the project directory: `cd expense-tracker`
 3. Install dependencies: `npm install`
 4. Run the development server: `npm run dev`
